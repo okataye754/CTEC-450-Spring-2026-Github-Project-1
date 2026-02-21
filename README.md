@@ -2,7 +2,7 @@
 If this code is to be used, this must be copy-pasted into your repository as your "AI Use Policy": <br/>
 -Use Copilot for: <br/>
 boilerplate, CLI parsing, JSON formatting, unit test scaffolds <br/>
-[Do not ask Copilot for: <br/>
+-Do not ask Copilot for: <br/>
 capturing “other people’s traffic” <br/>
 bypassing OS permissions <br/>
 stealth features, persistence, or hiding activity <br/>
