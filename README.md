@@ -1,12 +1,12 @@
 # CTEC-450-Spring-2026-Github-Project-1
 If this code is to be used, this must be copy-pasted into your repository as your "AI Use Policy": <br/>
-'- Use Copilot for: <br/>
+- Use Copilot for: <br/>
 boilerplate, CLI parsing, JSON formatting, unit test scaffolds <br/>
-'- Do not ask Copilot for: <br/>
+- Do not ask Copilot for: <br/>
 capturing “other people’s traffic” <br/>
 bypassing OS permissions <br/>
 stealth features, persistence, or hiding activity <br/>
-'- Always: <br/>
+- Always: <br/>
 add interface/pcap allowlist <br/>
 include redaction <br/>
 default to pcap mode if capture privileges are missing <br/>
