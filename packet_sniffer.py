@@ -24,5 +24,5 @@ def packet_callback(packet):
 
 # Capture 25 packets with a filter on port 80 (HTTP)
 print("Starting packet capture...")
-packets = sniff(filter='tcp port 80', prn=packet_callback, count=25)
+packets = sniff(filter='tcp port 80 or udp port 53', prn=packet_callback, count=25)
 print("Packet capture complete.")
